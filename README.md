@@ -1,14 +1,14 @@
 # Data analysis-PROJECT-1
 This is my first data analysis project.In order to do analysis i used MySQL WORKBENCH AND Power BI desktop.
 
-#Overview of this project
+# Overview of this project
 The video game industry is the industry involved in the development, marketing, and monetization of video games. It encompasses dozens of job disciplines and its component parts employ thousands of people worldwide.
 Every year it feels like the gaming industry sees the same stories—record sales, unfathomable market reach, and questions of how much higher the market can go.
 
-#Problem Statement
+# Problem Statement
 From the point of view of an investor or gaming company we want to know the popular genres and platforms which have more sales over the year so that we can invest or publish more games on those genre and platform.
 
-#About dataset
+# About dataset
 Here I used a dataset having sales records of North america , europe , japan and other region as well as other global sales of  games on different platform published by different gaming company.
 I picked this dataset from  kaggle  and this Dataset Fields includes:-
 Rank - Ranking of overall sales
